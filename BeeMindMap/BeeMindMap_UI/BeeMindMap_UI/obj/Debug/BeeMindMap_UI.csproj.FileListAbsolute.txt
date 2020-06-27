@@ -1,0 +1,112 @@
+C:\Users\Acer\Desktop\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\bin\Debug\BeeMindMap_UI.exe.config
+C:\Users\Acer\Desktop\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\bin\Debug\BeeMindMap_UI.exe
+C:\Users\Acer\Desktop\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\bin\Debug\BeeMindMap_UI.pdb
+C:\Users\Acer\Desktop\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Properties.Resources.resources
+C:\Users\Acer\Desktop\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.exe
+C:\Users\Acer\Desktop\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.pdb
+C:\Users\Acer\Desktop\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.WelcomeUI_Form.resources
+C:\Users\Acer\Desktop\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\bin\Debug\EntityFramework.dll
+C:\Users\Acer\Desktop\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Acer\Desktop\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\bin\Debug\EntityFramework.xml
+C:\Users\Acer\Desktop\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Acer\Desktop\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.csproj.CopyComplete
+C:\Users\Acer\Desktop\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.MessageBoxUI_Form.resources
+C:\Users\Acer\Desktop\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.MainWorkUI_Form.resources
+C:\Users\Acer\Desktop\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.MapUI_Form.resources
+C:\Users\Acer\Desktop\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.TreeUI_Form.resources
+C:\Users\Acer\Desktop\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.ToolMapUI_Form.resources
+C:\Users\Acer\Desktop\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.ToolStyleUI_Form.resources
+C:\Users\Acer\Desktop\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.EditUI.resources
+C:\Users\Acer\Desktop\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.FileUI.resources
+C:\Users\Acer\Desktop\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.InsertUI.resources
+C:\Users\Acer\Desktop\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.ViewUI.resources
+C:\Users\Acer\Desktop\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.UserUI.resources
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\bin\Debug\BeeMindMap_UI.exe.config
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\bin\Debug\BeeMindMap_UI.exe
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\bin\Debug\BeeMindMap_UI.pdb
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\bin\Debug\EntityFramework.dll
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\bin\Debug\Guna.UI2.dll
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\bin\Debug\EntityFramework.xml
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Raws.Circle.resources
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Raws.LineConect.resources
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.EditUI.resources
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.FileUI.resources
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.InsertUI.resources
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.MainWorkUI_Form.resources
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.MapUI_Form.resources
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.MessageBoxUI_Form.resources
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.ToolMapUI_Form.resources
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.ToolStyleUI_Form.resources
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.TreeUI_Form.resources
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.UserUI.resources
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.ViewUI.resources
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.WelcomeUI_Form.resources
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Properties.Resources.resources
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.csproj.CopyComplete
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.exe
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.pdb
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.EditUI.resources
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.FileUI.resources
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.InsertUI.resources
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.MainWorkUI_Form.resources
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.MapUI_Form.resources
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.MessageBoxUI_Form.resources
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.ToolMapUI_Form.resources
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.ToolStyleUI_Form.resources
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.TreeUI_Form.resources
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.UserUI.resources
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.ViewUI.resources
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.WelcomeUI_Form.resources
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Properties.Resources.resources
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\bin\Debug\BeeMindMap_UI.exe.config
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\bin\Debug\BeeMindMap_UI.exe
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\bin\Debug\BeeMindMap_UI.pdb
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\bin\Debug\EntityFramework.dll
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\bin\Debug\Guna.UI2.dll
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\bin\Debug\EntityFramework.xml
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Raws.Circle.resources
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Raws.LineConect.resources
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.csproj.CopyComplete
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.exe
+C:\Users\Acer\Desktop\ĐỒ ÁN WF\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.pdb
+D:\VY HUỲNH\LẬP TRÌNH WINDOWS\Thầy Phụng\MIND MAP PROJECT\BeeMindMap_FINAL\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\bin\Debug\BeeMindMap_UI.exe.config
+D:\VY HUỲNH\LẬP TRÌNH WINDOWS\Thầy Phụng\MIND MAP PROJECT\BeeMindMap_FINAL\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\bin\Debug\BeeMindMap_UI.exe
+D:\VY HUỲNH\LẬP TRÌNH WINDOWS\Thầy Phụng\MIND MAP PROJECT\BeeMindMap_FINAL\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\bin\Debug\BeeMindMap_UI.pdb
+D:\VY HUỲNH\LẬP TRÌNH WINDOWS\Thầy Phụng\MIND MAP PROJECT\BeeMindMap_FINAL\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\bin\Debug\EntityFramework.dll
+D:\VY HUỲNH\LẬP TRÌNH WINDOWS\Thầy Phụng\MIND MAP PROJECT\BeeMindMap_FINAL\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\bin\Debug\EntityFramework.SqlServer.dll
+D:\VY HUỲNH\LẬP TRÌNH WINDOWS\Thầy Phụng\MIND MAP PROJECT\BeeMindMap_FINAL\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\bin\Debug\EntityFramework.xml
+D:\VY HUỲNH\LẬP TRÌNH WINDOWS\Thầy Phụng\MIND MAP PROJECT\BeeMindMap_FINAL\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\bin\Debug\EntityFramework.SqlServer.xml
+D:\VY HUỲNH\LẬP TRÌNH WINDOWS\Thầy Phụng\MIND MAP PROJECT\BeeMindMap_FINAL\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.csprojAssemblyReference.cache
+D:\VY HUỲNH\LẬP TRÌNH WINDOWS\Thầy Phụng\MIND MAP PROJECT\BeeMindMap_FINAL\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Raws.Circle.resources
+D:\VY HUỲNH\LẬP TRÌNH WINDOWS\Thầy Phụng\MIND MAP PROJECT\BeeMindMap_FINAL\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Raws.LineConect.resources
+D:\VY HUỲNH\LẬP TRÌNH WINDOWS\Thầy Phụng\MIND MAP PROJECT\BeeMindMap_FINAL\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.EditUI.resources
+D:\VY HUỲNH\LẬP TRÌNH WINDOWS\Thầy Phụng\MIND MAP PROJECT\BeeMindMap_FINAL\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.FileUI.resources
+D:\VY HUỲNH\LẬP TRÌNH WINDOWS\Thầy Phụng\MIND MAP PROJECT\BeeMindMap_FINAL\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.InsertUI.resources
+D:\VY HUỲNH\LẬP TRÌNH WINDOWS\Thầy Phụng\MIND MAP PROJECT\BeeMindMap_FINAL\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.MainWorkUI_Form.resources
+D:\VY HUỲNH\LẬP TRÌNH WINDOWS\Thầy Phụng\MIND MAP PROJECT\BeeMindMap_FINAL\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.MapUI_Form.resources
+D:\VY HUỲNH\LẬP TRÌNH WINDOWS\Thầy Phụng\MIND MAP PROJECT\BeeMindMap_FINAL\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.MessageBoxUI_Form.resources
+D:\VY HUỲNH\LẬP TRÌNH WINDOWS\Thầy Phụng\MIND MAP PROJECT\BeeMindMap_FINAL\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.ToolMapUI_Form.resources
+D:\VY HUỲNH\LẬP TRÌNH WINDOWS\Thầy Phụng\MIND MAP PROJECT\BeeMindMap_FINAL\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.ToolStyleUI_Form.resources
+D:\VY HUỲNH\LẬP TRÌNH WINDOWS\Thầy Phụng\MIND MAP PROJECT\BeeMindMap_FINAL\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.TreeUI_Form.resources
+D:\VY HUỲNH\LẬP TRÌNH WINDOWS\Thầy Phụng\MIND MAP PROJECT\BeeMindMap_FINAL\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.UserUI.resources
+D:\VY HUỲNH\LẬP TRÌNH WINDOWS\Thầy Phụng\MIND MAP PROJECT\BeeMindMap_FINAL\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.ViewUI.resources
+D:\VY HUỲNH\LẬP TRÌNH WINDOWS\Thầy Phụng\MIND MAP PROJECT\BeeMindMap_FINAL\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Views.WelcomeUI_Form.resources
+D:\VY HUỲNH\LẬP TRÌNH WINDOWS\Thầy Phụng\MIND MAP PROJECT\BeeMindMap_FINAL\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.Properties.Resources.resources
+D:\VY HUỲNH\LẬP TRÌNH WINDOWS\Thầy Phụng\MIND MAP PROJECT\BeeMindMap_FINAL\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.csproj.GenerateResource.cache
+D:\VY HUỲNH\LẬP TRÌNH WINDOWS\Thầy Phụng\MIND MAP PROJECT\BeeMindMap_FINAL\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.csproj.CoreCompileInputs.cache
+D:\VY HUỲNH\LẬP TRÌNH WINDOWS\Thầy Phụng\MIND MAP PROJECT\BeeMindMap_FINAL\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.csproj.CopyComplete
+D:\VY HUỲNH\LẬP TRÌNH WINDOWS\Thầy Phụng\MIND MAP PROJECT\BeeMindMap_FINAL\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.exe
+D:\VY HUỲNH\LẬP TRÌNH WINDOWS\Thầy Phụng\MIND MAP PROJECT\BeeMindMap_FINAL\BeeMindMap - Sao chép\BeeMindMap_UI\BeeMindMap_UI\obj\Debug\BeeMindMap_UI.pdb
